@@ -1,4 +1,4 @@
 # Gas_Alc
 
-![print](1.png)
-![print](2.png)
+![print](1.jpeg)
+![print](2.jpeg)
